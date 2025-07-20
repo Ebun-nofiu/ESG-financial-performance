@@ -39,7 +39,8 @@ To determine whether strong ESG performance aligns with better financial outcome
 
 ## 📊 Files Included
 - `ESG and Financial Performance Dashboard.xlsx` – Excel analysis and dashboard  
-- `ESG and Financial Performance Presentation.pptx` – Final project presentation  
+- `ESG and Financial Performance Presentation.pptx` – Final project presentation
+- `ESG and Financial Performance Documentation.docx` - Full project write-up
 
 ## ✅ Conclusion
 This project proves that ESG is not just about ethics — it’s a driver of real financial performance.  
