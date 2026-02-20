@@ -32,24 +32,24 @@ Investors and executives need evidence that sustainability initiatives deliver m
 
 ## 📈 Key Findings
 **1. ESG Drives Revenue Growth**  
-- Companies with ESG scores **above 75** showed **36.6% higher revenue growth** (2021-2025)
+- Companies with ESG scores **above 75** showed **36.6% higher revenue growth** (2021-2025).
 - Finance sector demonstrates the strongest overall ESG performance, with (64.6) and high profit margin (14%), while Technology maintains a strong overall ESG performance (63.3%), and profit margin (19%).
 - Strong positive correlation between ESG performance and market valuation.
 
 **2. Environmental Performance Reduces Costs**  
 - High Environmental ESG scores (>80) correlate with **40% lower carbon emmissions**
-- Companies cutting emissions saw measurable operational cost reductions
-- Environmental pillar shows strongest direct financial impact
+- Companies cutting emissions saw measurable operational cost reductions.
+- Environmental pillar shows strongest direct financial impact.
 
 **3. Regional ESG Performance Gaps**  
-- **Europe:** Leads in ESG (avg score 67.9)  
-- **Oceania:** Strong performance (avg score 62.4)  
-- **Africa & Middle East:** Significant gap (avg scores 44.5, 43.4 respectively), showing growth opportunity
+- **Europe:** Leads in ESG (avg score 67.9).    
+- **Oceania:** Strong performance (avg score 62.4).   
+- **Africa & Middle East:** Significant gap (avg scores 44.5, 43.4 respectively), showing growth opportunity.  
 
 **4. Environmental Pillar Shows Strongest Measurable Impact**
-- Clear quantifiable relationship: ESG score -> emissions reduction  
-- High ESG companies emit 1.6M tons less CO2e than low ESG competitors
-- Most actionable pillar for companies seeking quick ESG improvements  
+- Clear quantifiable relationship: ESG score -> emissions reduction.   
+- High ESG companies emit 1.6M tons less CO2e than low ESG competitors.  
+- Most actionable pillar for companies seeking quick ESG improvements.  
 
 ## 💡Strategic Recommendations  
 **For Investors**  
