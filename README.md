@@ -18,6 +18,9 @@ Investors and executives need evidence that sustainability initiatives deliver m
 - ESG budget allocation
 - Stakeholder communications
 
+## Dashboard Preview
+! [ESG and Financial Performance Dashboard](images/ESG_financial_performance.png)
+
 ## 📈 Key Analyses
 - ESG by Industry and Profit Margin  
 - Environmental ESG and Carbon Emissions  
