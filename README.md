@@ -1,17 +1,22 @@
 # ESG & Financial Performance Analysis 
 
-This project explores the relationship between ESG (Environmental, Social, and Governance) performance and financial success across companies, industries, and regions.
+Quantifying the Business Case for Sustainability.
 
-## 📌 Objective
-To determine whether strong ESG performance aligns with better financial outcomes by analyzing:
-- Revenue
-- Profit Margin
-- Growth Rate
-- ESG Scores (Overall and by Pillar)
+## 📌 Project Overview
+Analysis of 300+ companies across 9 industries and 7 regions (2021-2025) exploring whether Environmental, Social, and Governance (ESG) performance drives financial success.  
+**Key Question:** Do companies with strong ESG scores outperform financially?  
+**Answer:** Yes. ESG scores and revenue grew in tandem by **36.6%** over 5 years.  
+**Dataset Size:** 300+ companies  
+**Time Period:** 2021-2025  
+**Industries Analyzed:** Technology, Finance, Manufacturing, Retail, Energy, Healthcare, Consumer Goods, Transportation, Utilities.  
 
-## 🛠️ Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Dashboards)
-- PowerPoint (Insights & Recommendations)
+
+## 🛠️ Business Problem  
+Investors and executives need evidence that sustainability initiatives deliver measurable ROI, not just compliance checkboxes. This analysis provides data-driven proof of the ESG-financial performance relationship to inform:  
+- Investment portfolio decisions  
+- Corporate sustainability strategy  
+- ESG budget allocation
+- Stakeholder communications
 
 ## 📈 Key Analyses
 - ESG by Industry and Profit Margin  
