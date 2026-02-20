@@ -2,7 +2,7 @@
 
 Quantifying the Business Case for Sustainability.
 
-## 📌 Project Overview
+## 📊 Project Overview
 Analysis of 300+ companies across 9 industries and 7 regions (2021-2025) exploring whether Environmental, Social, and Governance (ESG) performance drives financial success.  
 **Key Question:** Do companies with strong ESG scores outperform financially?  
 **Answer:** Yes. ESG scores and revenue grew in tandem by **36.6%** over 5 years.  
@@ -11,14 +11,23 @@ Analysis of 300+ companies across 9 industries and 7 regions (2021-2025) explori
 **Industries Analyzed:** Technology, Finance, Manufacturing, Retail, Energy, Healthcare, Consumer Goods, Transportation, Utilities.  
 
 
-## 🛠️ Business Problem  
+## 📌 Business Problem  
 Investors and executives need evidence that sustainability initiatives deliver measurable ROI, not just compliance checkboxes. This analysis provides data-driven proof of the ESG-financial performance relationship to inform:  
 - Investment portfolio decisions  
 - Corporate sustainability strategy  
 - ESG budget allocation
 - Stakeholder communications
 
-## Dashboard Preview
+## 🛠️ Tools and Techniques
+- Primary Tool: Microsoft Excel
+**Excel Features Used:**
+- PivotTables & PivotCharts (multi-dimensional analysis)
+- Power Query (data transformation and cleaning)
+- Slicers (interactive filtering)
+- Conditional formatting (data visualization)
+
+
+## 📸 Dashboard Preview
 ![ESG and Financial Performance Dashboard](images/ESG_financial_performance.png)
 
 ## 📈 Key Findings
@@ -45,12 +54,15 @@ Investors and executives need evidence that sustainability initiatives deliver m
 ## 💡Strategic Recommendations  
 **For Investors**  
 **1. Exploit ESG Improvement Gaps:** Africa (44.5) and Middle East (43.4) lag the global average (54.6), creating improvement-driven opportunities.  
-**2. Use ESG >60 as a Stability Benchmark:** Europe (67.9), Oceania (62.4), and North America (61.2) exceed this benchmark, indicating stronger stability.
+
+**2. Use ESG >60 as a Stability Benchmark:** Europe (67.9), Oceania (62.4), and North America (61.2) exceed this benchmark, indicating stronger stability.  
+
 **3. Prioritize Environmental Scores:** High ESG firms emit 6.2x less CO₂ than low ESG firms, making Environmental performance the most financially material driver.  
+
 **4. Apply Sector Context:** Finance and Technology (63-65 ESG) lead performance, assess firms against industry-adjusted expectations.    
 
-**For Companies**
-**5. Close Regional ESG Gaps Strategically:** With Europe leading at 67.9, other regions show 6–24 point improvement potential, creating a clear roadmap for structured ESG advancement.
+**For Companies**  
+**5. Close Regional ESG Gaps Strategically:** With Europe leading at 67.9, other regions show 6–24 point improvement potential, creating a clear roadmap for structured ESG advancement.  
 
 **6. Prioritize Emissions Reduction for Tangible ESG Gains:** High ESG firms average 314K CO₂e compared to 1.96M CO₂e for low ESG firms (84% differential), making emissions reduction the most immediate lever for improvement.
 
